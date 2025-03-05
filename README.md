@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aniket Patel</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
-<p align="center">
-  <img align="center" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-</p>
-
 ---
 
 ## 🚀 About Me  
