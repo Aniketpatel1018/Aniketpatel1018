@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Aniket Patel</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="center">
+  <img align="center" alt="Coding" width="350" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+</p>
 
 ---
 
-### 🚀 About Me  
+## 🚀 About Me  
 - 🔭 I’m currently working on **exciting full-stack projects**  
 - 🌱 I’m currently learning **advanced React and Node.js**  
 - 👯 I’m looking to collaborate on **open-source projects**  
@@ -14,25 +16,25 @@
 
 ---
 
-### 🌐 Connect with Me  
+## 🌐 Connect with Me  
 <p align="left">
   <a href="https://www.linkedin.com/in/aniket-patel-204828221" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://www.instagram.com/aniketpatel_012" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:aniketpatel@example.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://aniketpatelportfolio.com" target="_blank">
-    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack  
+## 🛠️ Tech Stack  
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
@@ -48,7 +50,7 @@
 
 ---
 
-### 📊 GitHub Stats  
+## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aniketpatel1018&show_icons=true&theme=radical&count_private=true" alt="GitHub Stats" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aniketpatel1018&theme=radical" alt="GitHub Streak" width="48%"/>
@@ -59,16 +61,16 @@
 
 ---
 
-### 🏆 GitHub Trophies  
+## 🏆 GitHub Trophies  
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=aniketpatel1018&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
 </p>
 
 ---
 
-### 💡 Fun Fact  
+## 💡 Fun Fact  
 ⚡ **I love exploring new technologies and contributing to open-source projects!**  
 
 ---
 
-⭐ **Feel free to explore my repositories, star them if you like, and connect with me!** 😊  
+⭐ **Feel free to explore my repositories, star them if you like, and connect with me!** 😊
