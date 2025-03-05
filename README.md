@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aniket Patel</h1>
 <h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ---
 
@@ -22,8 +22,11 @@
   <a href="https://www.instagram.com/aniketpatel_012" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:your-email@example.com" target="_blank">
+  <a href="mailto:aniketpatel@example.com" target="_blank">
     <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://aniketpatelportfolio.com" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
@@ -68,4 +71,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories and connect with me!** 😊  
+⭐ **Feel free to explore my repositories, star them if you like, and connect with me!** 😊  
