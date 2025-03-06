@@ -1,21 +1,24 @@
 <h1 align="center">Hi 👋, I'm Aniket Patel</h1>  
-<h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>  
+<h3 align="center">Full-Stack Developer | Open-Source Enthusiast | Tech Explorer</h3>  
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Illustration" width="40%" align="right"/>
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" 
+       alt="Coding Illustration" width="50%" style="border-radius: 10px;"/>
 </div>
 
+---
+
 ## 🚀 About Me  
-- 🚀 Currently working on **exciting full-stack projects**  
-- 🌱 Continuously learning **advanced React, Node.js, and modern web technologies**  
-- 👯 Open to collaborating on **open-source projects and innovative solutions**  
-- 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**  
-- ⚡ Fun fact: **I enjoy contributing to open-source and exploring emerging technologies**  
+- 🔭 **Currently Working On:** Building scalable full-stack applications and contributing to open-source projects.  
+- 🌱 **Learning:** Advanced React, Node.js, and modern web development practices.  
+- 👯 **Looking to Collaborate:** On innovative open-source projects and tech solutions.  
+- 💬 **Ask Me About:** JavaScript, React, Node.js, or anything related to web development.  
+- ⚡ **Fun Fact:** I enjoy exploring emerging technologies and contributing to the developer community.  
 
 ---
 
 ## 🌐 Connect with Me  
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/aniket-patel-204828221" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -33,7 +36,7 @@
 ---
 
 ## 🛠️ Tech Stack  
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -71,4 +74,4 @@
 
 ---
 
-⭐ **Feel free to explore my repositories, star them if you like, and connect with me!** 😊
+⭐ **Feel free to explore my repositories, star them if you like, and connect with me!** 😊  
