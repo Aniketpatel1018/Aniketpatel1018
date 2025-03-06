@@ -1,14 +1,16 @@
-<h1 align="center">Hi 👋, I'm Aniket Patel</h1>
-<h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>
+<h1 align="center">Hi 👋, I'm Aniket Patel</h1>  
+<h3 align="center">A Passionate Full-Stack Developer from India 🇮🇳</h3>  
 
----
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="Coding Illustration" width="40%" align="right"/>
+</div>
 
 ## 🚀 About Me  
-- 🔭 I’m currently working on **exciting full-stack projects**  
-- 🌱 I’m currently learning **advanced React and Node.js**  
-- 👯 I’m looking to collaborate on **open-source projects**  
-- 💬 Ask me about **JavaScript, React, or anything tech-related**  
-- ⚡ Fun fact: **I love contributing to open-source and exploring new tech!**  
+- 🚀 Currently working on **exciting full-stack projects**  
+- 🌱 Continuously learning **advanced React, Node.js, and modern web technologies**  
+- 👯 Open to collaborating on **open-source projects and innovative solutions**  
+- 💬 Ask me about **JavaScript, React, Node.js, or anything tech-related**  
+- ⚡ Fun fact: **I enjoy contributing to open-source and exploring emerging technologies**  
 
 ---
 
@@ -26,7 +28,7 @@
   <a href="https://aniketpatelportfolio.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
-</p>
+</p>  
 
 ---
 
@@ -42,7 +44,7 @@
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
-</p>
+</p>  
 
 ---
 
